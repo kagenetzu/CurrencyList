@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Список валют</string>
+    <string name="hintRuble">Введите сумму</string>
+    <string name="convertRuble">Конвертированная сумма</string>
+
+
+</resources>
